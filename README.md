@@ -5,6 +5,12 @@
 
 Bilingual README（中文在前，English below）. Jump to: [简体中文](#zh) · [English](#en) · [Full diff](#full-diff)
 
+<p align="center">
+  <img src="./pic.jpg" alt="Pickles / muxretro — Fast Forward Hold Button" width="720">
+</p>
+
+<p align="center"><sub>效果预览 / Preview</sub></p>
+
 ---
 
 <a id="zh"></a>
